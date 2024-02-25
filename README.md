@@ -48,6 +48,15 @@
 Frontend: HTML, CSS, Bootstrap
 Backend: PHP,MySQL
 <hr>
+
+
+<h3>To access website follow this steps:</h3>
+1.install xampp<br>
+2.start the mysql & apache server<br>
+3.import the .sql file which is given in database folder<br>
+4.then load index.php & enjoy.....!<br>
+
+<hr>
 <h3>Contributors:</h3>
 <li>Namra Vora</li>
 <li>Himanshi Thakkar</li>
