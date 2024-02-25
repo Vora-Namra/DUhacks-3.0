@@ -32,12 +32,11 @@
 </ul>
 
 <hr>
-<h3>Administator mangemengt</h3>
+<h3>Administator mangement</h3>
 <ul>
     <li><b>Manage Accounts</b> Manage all the accounts of Student & Faculty & provide access to each one.</li>
-    <li><b>Search and Browse:</b> Allow users to search for books by title, author, subject, or keyword and browse through available categories.</li>
-    <li><b>Reading and Downloading:</b> Enable users to read books online and download them for offline access.</li>
-
+    <li><b>Check Attendance:</b> Enable admin to check attendance of user & faculty & also filter them by class/course.</li>
+    <li><b>Manage Salary</b> Allow to add,calculate & manage salary & allowance of each & every faculty members in university.</li>
 </ul>
 <h3>Technologies Used</h3>
 Frontend: HTML, CSS, Bootstrap
